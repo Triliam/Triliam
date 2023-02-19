@@ -3,9 +3,9 @@
 System.out.println ("I’m currently learning");
 
 - Estou estudando Desenvolvimento de Software Multiplataforma no curso superior da FATEC. 
-- Backend Java pela ALURA, Udemy com Nélio Alves e [loiane.training](https://loiane.training/) com a Loiane Groner.
+- Backend Java pela ALURA, Udemy com Nélio Alves e [loiane.training](https://loiane.training/) com Loiane Groner.
 - Linux pela DIO com Denilson Bonatti. 
-- Frontend Angular pela loiane.training com a Loiane Groner.
+- Frontend Angular pela loiane.training com Loiane Groner.
             
 ## Tecnologias
 
