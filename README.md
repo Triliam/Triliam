@@ -13,7 +13,7 @@ System.out.println ("I’m currently learning");
 <p>Algumas das tecnologias que estou estudando:</p>
 
 
-!(C:\Users\Triliam\Desktop\ibagens\imagens-github)
+![](C:\Users\Triliam\Desktop\ibagens\imagens-github)
 <!---
 Triliam/Triliam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
