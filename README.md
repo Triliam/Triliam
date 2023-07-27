@@ -3,8 +3,8 @@
 System.out.println ("I’m currently learning");
 
 - Estou estudando Desenvolvimento de Software Multiplataforma no curso superior da FATEC. 
-- Backend Golang, Python e PHP.
 - Java pela ALURA, Udemy com Nélio Alves e [loiane.training](https://loiane.training/) com Loiane Groner.
+- Golang, Python e PHP.
             
 ## Tecnologias
 
