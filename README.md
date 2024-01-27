@@ -3,7 +3,7 @@
 System.out.println ("I’m currently learning");
 
 - Estou estudando Desenvolvimento de Software Multiplataforma no curso superior da FATEC.
-- Iniciação Cientifica desenvolvendo o banco com MySql e o back com PHP-LARAVEL para um sistema de gerenciamento de conteúdo. 
+- Iniciação Cientifica desenvolvendo o back-end, banco de dados, API REST, com MySql e PHP-LARAVEL para um sistema de gerenciamento de conteúdo. 
 - Java pela ALURA, Udemy com Nélio Alves e [loiane.training](https://loiane.training/) com Loiane Groner.
 - Golang, Python e PHP/LARAVEL.
             
